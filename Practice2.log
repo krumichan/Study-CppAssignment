@@ -1,0 +1,357 @@
+[DEBUG] 2020-04-28 16:22:21.806
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:21.808
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:21.911
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:21.911
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.016
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.016
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.117
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.117
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.221
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.221
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.326
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.326
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.439
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.439
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.542
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.542
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.643
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.643
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.765
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.765
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.870
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.870
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:22.970
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:22.970
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:23.070
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:23.070
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:23.171
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:23.171
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:23.276
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:23.276
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:23.376
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:23.376
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:23.492
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:22:23.492
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:22:23.710
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:23.710
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:23.814
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:23.814
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:23.915
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:23.915
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:24.015
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.015
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:24.116
+contents : CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.116
+contents : [CAMERA] execute StartState()
+[INFO] 2020-04-28 16:22:24.131
+contents : [CAMERA] カメラディバイスから写真を取得しました。
+[DEBUG] 2020-04-28 16:22:24.232
+contents : AMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.232
+contents : [CAMERA] execute EndState()
+[INFO] 2020-04-28 16:22:24.232
+contents : [CAMERA] 写真を保存しました
+filepath : C:\devOld\workspace
+[DEBUG] 2020-04-28 16:22:24.332
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.332
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:24.439
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.439
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:24.540
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.540
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:24.640
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.640
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:24.749
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.749
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:24.853
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.853
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:24.958
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:24.958
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:25.058
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.058
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:25.158
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.158
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:25.259
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.259
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:25.359
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.359
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:25.471
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.471
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:25.572
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.572
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:25.677
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.677
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:25.779
+contents : CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.779
+contents : [CAMERA] execute StartState()
+[INFO] 2020-04-28 16:22:25.779
+contents : [CAMERA] カメラディバイスから写真を取得しました。
+[DEBUG] 2020-04-28 16:22:25.884
+contents : AMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.884
+contents : [CAMERA] execute EndState()
+[INFO] 2020-04-28 16:22:25.884
+contents : [CAMERA] 写真を保存しました
+filepath : C:\devOld\workspace
+[DEBUG] 2020-04-28 16:22:25.984
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:25.984
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:26.085
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:26.085
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:26.189
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:26.189
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:26.293
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:26.293
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:26.393
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:26.393
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:26.494
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:26.494
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:22:26.595
+contents : CAMERA] curID : 
+[TRACE] 2020-04-28 16:22:26.595
+contents : [CAMERA] execute StartState()
+[INFO] 2020-04-28 16:22:26.595
+contents : [CAMERA] カメラディバイスから写真を取得しました。
+[DEBUG] 2020-04-28 16:22:26.722
+contents : AMERA] curID : 
+[TRACE] 2020-04-28 16:22:26.722
+contents : [CAMERA] execute EndState()
+[FATAL] 2020-04-28 16:22:26.722
+contents : [CAMERA] 写真の保存に失敗しました。
+fail reason : これ以上、イメージ保存不可！！！
+[DEBUG] 2020-04-28 16:24:11.647
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:24:11.648
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:24:11.754
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:24:11.754
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:24:11.855
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:24:11.855
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:24:11.959
+contents : [NONE] curID : 
+[TRACE] 2020-04-28 16:24:11.959
+contents : [NONE] execute NoneState()
+[DEBUG] 2020-04-28 16:24:12.164
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:12.164
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:12.264
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:12.264
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:12.369
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:12.369
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:12.469
+contents : CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:12.469
+contents : [CAMERA] execute StartState()
+[INFO] 2020-04-28 16:24:12.469
+contents : [CAMERA] カメラディバイスから写真を取得しました。
+[DEBUG] 2020-04-28 16:24:12.570
+contents : AMERA] curID : 
+[TRACE] 2020-04-28 16:24:12.570
+contents : [CAMERA] execute EndState()
+[INFO] 2020-04-28 16:24:12.570
+contents : [CAMERA] 写真を保存しました
+filepath : C:\devOld\workspace
+[DEBUG] 2020-04-28 16:24:12.675
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:12.675
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:12.777
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:12.777
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:12.878
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:12.878
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:12.978
+contents : CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:12.978
+contents : [CAMERA] execute StartState()
+[INFO] 2020-04-28 16:24:12.978
+contents : [CAMERA] カメラディバイスから写真を取得しました。
+[DEBUG] 2020-04-28 16:24:13.084
+contents : AMERA] curID : 
+[TRACE] 2020-04-28 16:24:13.084
+contents : [CAMERA] execute EndState()
+[INFO] 2020-04-28 16:24:13.084
+contents : [CAMERA] 写真を保存しました
+filepath : C:\devOld\workspace
+[DEBUG] 2020-04-28 16:24:13.185
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:13.185
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:13.285
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:13.285
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:13.385
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:13.385
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:13.486
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:13.486
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:13.601
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:13.601
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:13.705
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:13.705
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:13.811
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:13.811
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:13.925
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:13.925
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.025
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.025
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.127
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.127
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.227
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.227
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.327
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.327
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.427
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.427
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.527
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.527
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.628
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.628
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.736
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.736
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.843
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.843
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:14.948
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:14.948
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:15.048
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:15.048
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:15.148
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:15.148
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:15.252
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:15.252
+contents : [CAMERA] execute NoneState()
+[DEBUG] 2020-04-28 16:24:15.354
+contents : [CAMERA] curID : 
+[TRACE] 2020-04-28 16:24:15.354
+contents : [CAMERA] execute NoneState()
